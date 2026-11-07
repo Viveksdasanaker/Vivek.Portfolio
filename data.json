@@ -1,0 +1,141 @@
+
+{
+    "personal": {
+        "name": "vivek",
+        "title": "BCA First Year Student",
+        "introduction": "I am a passionate BCA student interested in web development, programming and modern technologies. I enjoy creating attractive and user-friendly websites.",
+        "about": "Hello! I am a BCA First Year student with a strong interest in computer science and web development. I am learning HTML, CSS, JavaScript, Bootstrap and C programming. My goal is to become a skilled web developer and build innovative digital solutions.",
+        "email": "yourname@gmail.com",
+        "phone": "+91 9876543210",
+        "location": "Mumbai, Maharashtra, India",
+        "image": "https://placehold.co/350x350/172554/ffffff?text=Your+Photo",
+        "resume": "resume.pdf",
+        "social": [
+            {
+                "name": "LinkedIn",
+                "icon": "bi bi-linkedin",
+                "url": "https://www.linkedin.com/"
+            },
+            {
+                "name": "GitHub",
+                "icon": "bi bi-github",
+                "url": "https://github.com/"
+            },
+            {
+                "name": "Instagram",
+                "icon": "bi bi-instagram",
+                "url": "https://www.instagram.com/"
+            }
+        ]
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "level": 85
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "level": 65
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "level": 80
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "level": 75
+        },
+        {
+            "name": "Python",
+            "icon": "bi bi-filetype-py",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "title": "Personal Portfolio Website",
+            "description": "A modern and responsive personal portfolio website created to showcase my skills, education, projects and achievements.",
+            "image": "https://placehold.co/600x400/172554/ffffff?text=Portfolio+Website",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Bootstrap"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "title": "Student Management System",
+            "description": "A simple student management project designed to organize student information and academic records.",
+            "image": "https://placehold.co/600x400/2563eb/ffffff?text=Student+Management",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "title": "Weather Application",
+            "description": "A simple weather application interface that demonstrates how users can view weather information using web technologies.",
+            "image": "https://placehold.co/600x400/0f766e/ffffff?text=Weather+Application",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "API"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "institution": "Your College Name",
+            "year": "2026 - Present",
+            "description": "Currently pursuing BCA First Year with an interest in programming, computer applications and web development."
+        },
+        {
+            "degree": "Higher Secondary Certificate (12th)",
+            "institution": "Your Junior College Name",
+            "year": "2025 - 2026",
+            "description": "Completed higher secondary education."
+        },
+        {
+            "degree": "Secondary School Certificate (10th)",
+            "institution": "Your School Name",
+            "year": "2024",
+            "description": "Successfully completed secondary school education."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to JavaScript",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Computer Fundamentals",
+            "issuer": "Computer Training Institute",
+            "year": "2025"
+        }
+    ]
+}
